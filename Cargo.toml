@@ -1,0 +1,14 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+authors = ["rust"]
+license = "MIT OR Apache-2.0"
+edition = "2021"
+rust-version = "1.73.0"
+
+[dependencies]
+# eframe = { path = "./egui/crates/eframe" }
+eframe = "0.29.1"
+glob = {optional = true, version = "0.3"}
+[features]  
+font_path = ["glob"]
