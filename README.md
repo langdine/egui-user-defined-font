@@ -1,6 +1,6 @@
 # egui-user-defined-font
-This example show how to load userdefined font. AlibabaPuHuiTi-3-55-Regular.ttf download from https://fonts.alibabagroup.com/#/home . This is a font released globally for free commercial use by China's Alibaba, covering 178 languages.
-for egui 0.29.1
+This example show how to load userdefined font for egui 0.29.1 . AlibabaPuHuiTi-3-55-Regular.ttf download from https://fonts.alibabagroup.com/#/home . This is a font released globally for free commercial use by China's Alibaba, covering 178 languages.
+
 
 
 # Load from fonts path
